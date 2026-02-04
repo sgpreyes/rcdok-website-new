@@ -14,24 +14,24 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Home',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'home' },
 				},
 				{
 					label: 'Community',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'community' },
 				},
 				{
 					label: 'Faith',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'faith' },
 				},
 				{
 					label: 'Parishes',
 					items: [
-						{ label: 'Vicariate of Our Lady of Grace', slug: 'guides/example' },
-						{ label: 'Vicariate of Sacred Heart of Jesus', slug: 'guides/example' },
-						{ label: 'Vicariate of San Bartolome', slug: 'guides/example' },
-						{ label: 'Vicariate of San Jose', slug: 'guides/example' },
-						{ label: 'Vicariate of San Roque', slug: 'guides/example' },
+						{ label: 'Vicariate of Our Lady of Grace', slug: 'parishes/vicar-grace' },
+						{ label: 'Vicariate of Sacred Heart of Jesus', slug: 'parishes/vicar-heart' },
+						{ label: 'Vicariate of San Bartolome', slug: 'parishes/vicar-bartolome' },
+						{ label: 'Vicariate of San Jose', slug: 'parishes/vicar-jose' },
+						{ label: 'Vicariate of San Roque', slug: 'parishes/vicar-roque' },
 					],
 				},
 				{
