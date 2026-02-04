@@ -4,6 +4,9 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://MOCKIE26.github.io',
+    base: '/rcdok-website-new',
+
 	integrations: [
 		starlight({
 			title: 'My Docs',
