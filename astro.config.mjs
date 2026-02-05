@@ -76,7 +76,7 @@ export default defineConfig({
 				},
 				{
 					label: 'About Us',
-					autogenerate: { directory: 'about-us:' },
+					autogenerate: { directory: 'about-us' },
 				},{
 					label: 'Contact',
 					autogenerate: { directory: 'contact' },
