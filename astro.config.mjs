@@ -6,50 +6,82 @@ export default defineConfig({
     site: 'https://MOCKIE26.github.io',
     base: '/rcdok-website-new',
 
-    integrations: [
-        starlight({
-            title: 'Diocese of Kalookan',
-            social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/MOCKIE26/rcdok-website-new' }],
-            sidebar: [
-                {
-                    label: 'Home',
-                    link: '/',
-                },
-                {
-                    label: 'Diocesan Portal',
-                    items: [
-                        { label: 'Community Hub', link: '/community/community' }, 
-                        { label: 'Volunteer with Us', link: '/community/volunteer' },
-                    ],
-                },
-                {
-                    label: 'Faith',
-                    autogenerate: { directory: 'faith' },
-                },
-                {
-                    label: 'Parishes',
-                    autogenerate: { directory: 'parishes' },
-                },
-                {
-                    label: 'Clergy',
-                    autogenerate: { directory: 'clergy' },
-                },
-                {
-                    label: 'Missions',
-                    autogenerate: { directory: 'missions' },
-                },
-                {
-                    label: 'Resources',
-                    autogenerate: { directory: 'reference' },
-                },
-                {
-                    label: 'About & Contact',
-                    items: [
-                        { label: 'About Us', link: '/about' },
-                        { label: 'Contact', link: '/contact' },
-                    ]
-                },
-            ],
-        }),
-    ],
+	integrations: [
+		starlight({
+			title: 'My Docs',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			sidebar: [
+				{
+					label: 'Home',
+					autogenerate: { directory: 'home' },
+				},
+				{
+					label: 'Community',
+					autogenerate: { directory: 'community' },
+				},
+				{
+					label: 'Faith',
+					autogenerate: { directory: 'faith' },
+				},
+				{
+					label: 'Parishes',
+					items: [
+						{ label: 'Vicariate of Our Lady of Grace', slug: 'parishes/vicar-grace' },
+						{ label: 'Vicariate of Sacred Heart of Jesus', slug: 'parishes/vicar-heart' },
+						{ label: 'Vicariate of San Bartolome', slug: 'parishes/vicar-bartolome' },
+						{ label: 'Vicariate of San Jose', slug: 'parishes/vicar-jose' },
+						{ label: 'Vicariate of San Roque', slug: 'parishes/vicar-roque' },
+					],
+				},
+				{
+					label: 'Member Schools',
+					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'Clergy',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Diocesan', slug: 'guides/example' },
+						{ label: 'Religious', slug: 'guides/example' },
+					],
+				},
+				{
+					label: 'Ministries',
+					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'Missions',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Mission Stations', slug: 'guides/example' },
+						{ label: 'Mission Centers', slug: 'guides/example' },
+						{ label: 'Mission Programs', slug: 'guides/example' },
+						{ label: 'Mission Headquarters', slug: 'guides/example' },
+					],
+				},
+				{
+					label: 'Cemeteries, Columbaries & Ossuaries',
+					items: [
+						{ label: 'Cemeteries', slug: 'cemeteries-columbaries-ossuaries/cemeteries' },
+						{ label: 'Columbaries', slug: 'cemeteries-columbaries-ossuaries/columbaries' },
+					],
+				},
+				{
+					label: 'Events',
+					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'News',
+					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'About Us',
+					autogenerate: { directory: 'about-us:' },
+				},{
+					label: 'Contact',
+					autogenerate: { directory: 'contact' },
+				},
+			],
+		}),
+	],
 });
