@@ -62,7 +62,10 @@ export default defineConfig({
 				},
 				{
 					label: 'Cemeteries, Columbaries & Ossuaries',
-					autogenerate: { directory: 'reference' },
+					items: [
+						{ label: 'Cemeteries', slug: 'cemeteries columbaries & ossuaries/cemeteries' },
+						{ label: 'Columbaries', slug: 'cemeteries columbaries & ossuaries/columbaries' },
+					],
 				},
 				{
 					label: 'Events',
