@@ -9,7 +9,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Diocese of Kalookan',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
 					label: 'Home',
