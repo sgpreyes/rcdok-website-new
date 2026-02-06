@@ -34,7 +34,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Member Schools',
-					autogenerate: { directory: 'member-school' },
+					autogenerate: { directory: 'member-schools' },
 				},
 				{
 					label: 'Clergy',
