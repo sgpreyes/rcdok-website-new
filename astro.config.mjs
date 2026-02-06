@@ -28,7 +28,7 @@ export default defineConfig({
 						{ label: 'Vicariate of Our Lady of Grace', slug: 'parishes/vicar-grace' },
 						{ label: 'Vicariate of Sacred Heart of Jesus', slug: 'parishes/vicar-heart' },
 						{ label: 'Vicariate of San Bartolome', slug: 'parishes/vicar-bartolome' },
-						{ label: 'Vicariate of San Jose', slug: 'parishes/vicar-jose' },
+						{ label: 'Vicariate of San Jose De Navotas', slug: 'parishes/vicar-jose' },
 						{ label: 'Vicariate of San Roque', slug: 'parishes/vicar-roque' },
 					],
 				},
