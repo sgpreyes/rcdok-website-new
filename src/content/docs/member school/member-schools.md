@@ -94,10 +94,10 @@ description: Catholic member schools under the diocese.
 </div>
 
 <div style="text-align: center;">
-<a href="https://ndgm.edu.ph/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/NDGMofficial/" target="_blank" rel="noopener noreferrer">
 <img src="https://dioceseofkalookan.ph/wp-content/uploads/2020/12/NDGM-150x150.jpg" alt="NDGM Logo" style="width: 150px; height: auto; margin: 0 auto;" />
 </a>
-<p style="font-size: 0.8rem; margin-top: 0.5rem; color: #666;">🏫 Click logo to visit Website</p>
+<p style="font-size: 0.8rem; margin-top: 0.5rem; color: #666;">🔵 Click logo for Facebook</p>
 </div>
 
 </div>
@@ -109,7 +109,7 @@ description: Catholic member schools under the diocese.
 * **Director:** Rev. Fr. Howard P. Tatel, OMI
 * **Email:** [ndgm_63@yahoo.com](mailto:ndgm_63@yahoo.com)
 * **Website:** [https://ndgm.edu.ph/](https://ndgm.edu.ph/)
-* **Location Map:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=1)
+* **Location Map:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=2)
 
 </div>
 </div>
