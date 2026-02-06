@@ -46,46 +46,34 @@ description: Catholic member schools under the diocese.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
 
-  <div style="flex: 1; min-width: 220px; text-align: center;">
-    <a href="https://www.facebook.com/LccCalCity1940officialpage" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="https://dioceseofkalookan.ph/wp-content/uploads/2020/12/103957725_125136889208456_4237453690297737924_n-150x150.png"
-        alt="La Consolacion College – Caloocan Logo"
-        style="max-width: 150px; border-radius: 8px; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
-      />
-    </a>
-    <p style="font-size: 0.85rem; color: #666;">
-      📘 Click logo to visit Facebook page
-    </p>
+<div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; gap: 1.5rem;">
 
-    <a href="https://lccc.edu.ph/" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="http://lccc.edu.ph/wp-content/uploads/2023/05/header-scaled.jpg"
-        alt="La Consolacion College – Caloocan Campus"
-        style="width: 100%; border-radius: 8px; margin-top: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
-      />
-    </a>
-    <p style="font-size: 0.85rem; color: #666; margin-top: 0.5rem;">
-      🌐 Click image to visit official website
-    </p>
-  </div>
-
-  <div style="flex: 2; min-width: 300px;">
-
-
-* **Address:** 496 A. Mabini Street, Sangandaan, Caloocan City  
-* **Telephone:** 8287-9703  
-* **President:** Sr. Ma. Lina R. Despojo, OSA  
-
-* **Email:**  
-  [lcccfinanceoffice@gmail.com](mailto:lcccfinanceoffice@gmail.com)
-
-* **Website:**  
-  [https://lccc.edu.ph/](https://lccc.edu.ph/)
-
-* **Location Map:**  
-  [View on Google Maps](https://maps.google.com/?q=496+A.+Mabini+Street,+Sangandaan,+Caloocan+City)
-
-  </div>
+<div style="text-align: center;">
+<a href="https://lccc.edu.ph/" target="_blank" rel="noopener noreferrer">
+<img src="http://lccc.edu.ph/wp-content/uploads/2023/05/header-scaled.jpg" alt="LCC-C Campus" style="border-radius: 8px; width: 100%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</a>
+<p style="font-size: 0.8rem; margin-top: 0.5rem; color: #666;">🌐 Click image to visit Website</p>
 </div>
 
+<div style="text-align: center;">
+<a href="https://www.facebook.com/LccCalCity1940officialpage/" target="_blank" rel="noopener noreferrer">
+<img src="https://dioceseofkalookan.ph/wp-content/uploads/2020/12/103957725_125136889208456_4237453690297737924_n-150x150.png" alt="LCC-C Logo" style="width: 150px; height: auto; margin: 0 auto;" />
+</a>
+<p style="font-size: 0.8rem; margin-top: 0.5rem; color: #666;">🔵 Click logo for Facebook</p>
+</div>
+
+</div>
+
+<div style="flex: 1.5; min-width: 300px;">
+
+* **Address:** 496 A. Mabini Street, Sangandaan, Caloocan City
+* **Telephone:** 8287-9703
+* **President:** Sr. Ma. Lina R. Despojo, OSA
+* **Email:** [lcccfinanceoffice@gmail.com](mailto:lcccfinanceoffice@gmail.com)
+* **Website:** [https://lccc.edu.ph/](https://lccc.edu.ph/)
+* **Location Map:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=0)
+
+</div>
+</div>
+
+---
