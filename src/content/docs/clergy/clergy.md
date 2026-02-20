@@ -3,6 +3,8 @@ title: Clergy
 description: Information about the clergy serving the diocese.
 ---
 
-# Clergy
+import ClergyGrid from '../../../components/ClergyGrid.astro';
 
-Content about priests, deacons, and clergy members goes here.
+Meet our team.
+
+<ClergyGrid />

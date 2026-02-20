@@ -1,0 +1,64 @@
+---
+import DefaultPageTitle from '@astrojs/starlight/components/PageTitle.astro';
+
+const { entry, title, frontmatter } = Astro.props;
+
+const { author, publishDate, coverImage } = frontmatter ?? {};
+
+const isNews =
+  entry &&
+  entry.id.startsWith('news/') &&
+  !entry.id.endsWith('index');
+---
+<DefaultPageTitle {...Astro.props} />
+
+{isNews && (
+  <div class="news-header">
+    <div class="news-meta">
+      {publishDate && (
+        <time datetime={publishDate.toISOString()}>
+          📅 {publishDate.toLocaleDateString('en-US', { dateStyle: 'long' })}
+        </time>
+      )}
+      {author && <span>✍️ {author}</span>}
+    </div>
+
+    {coverImage && (
+      <img
+        src={coverImage}
+        alt={title}
+        class="hero-img"
+      />
+    )}
+
+    <hr />
+  </div>
+)}
+
+<style>
+  .news-header { margin-bottom: 2rem; }
+  .news-meta { 
+    display: flex; 
+    gap: 1.5rem; 
+    color: var(--sl-color-gray-3); 
+    font-size: 0.9rem; 
+    margin-top: -0.5rem; 
+    margin-bottom: 1.5rem; 
+  }
+  .hero-image-container { 
+    border-radius: var(--sl-border-radius-large); 
+    overflow: hidden; 
+    box-shadow: var(--sl-shadow-md); 
+    margin-bottom: 1.5rem; 
+  }
+  .hero-img { 
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    object-fit: cover; 
+  }
+  .news-divider { 
+    border: 0; 
+    border-top: 1px solid var(--sl-color-gray-5); 
+  }
+</style>

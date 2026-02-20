@@ -40,8 +40,8 @@ export default defineConfig({
 					label: 'Clergy',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Diocesan', slug: 'guides/example' },
-						{ label: 'Religious', slug: 'guides/example' },
+						{ label: 'Diocesan', slug: 'reference/example' },
+						{ label: 'Religious', slug: 'reference/example' },
 					],
 				},
 				{
@@ -71,7 +71,7 @@ export default defineConfig({
 				},
 				{
 					label: 'News',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'news' },
 				},
 				{
 					label: 'About Us',
@@ -81,6 +81,9 @@ export default defineConfig({
 					autogenerate: { directory: 'contact' },
 				},
 			],
+			components: {
+        		PageTitle: './src/components/NewsPage.astro',
+     		},
 		}),
 	],
 });

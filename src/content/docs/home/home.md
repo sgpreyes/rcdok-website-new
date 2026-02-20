@@ -2,7 +2,7 @@
 title: Home
 description: A home page in my new Starlight docs site.
 ---
-
+<!--
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-bottom: 50px;">
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://dioceseofkalookan.ph/wp-content/uploads/2019/04/Coat-of-Arms-of-Diocese-of-Kalookan-png_small_favicon.png"
@@ -19,4 +19,5 @@ description: A home page in my new Starlight docs site.
     </p>
   </div>
 </div>
+-->
 
