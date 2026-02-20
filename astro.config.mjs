@@ -28,20 +28,20 @@ export default defineConfig({
 						{ label: 'Vicariate of Our Lady of Grace', slug: 'parishes/vicar-grace' },
 						{ label: 'Vicariate of Sacred Heart of Jesus', slug: 'parishes/vicar-heart' },
 						{ label: 'Vicariate of San Bartolome', slug: 'parishes/vicar-bartolome' },
-						{ label: 'Vicariate of San Jose', slug: 'parishes/vicar-jose' },
+						{ label: 'Vicariate of San Jose De Navotas', slug: 'parishes/vicar-jose' },
 						{ label: 'Vicariate of San Roque', slug: 'parishes/vicar-roque' },
 					],
 				},
 				{
 					label: 'Member Schools',
-					autogenerate: { directory: 'member-schools' },
+					autogenerate: { directory: 'member school' },
 				},
 				{
 					label: 'Clergy',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Diocesan', slug: 'reference/example' },
-						{ label: 'Religious', slug: 'reference/example' },
+						{ label: 'Diocesan', slug: 'clergy/diocesan' },
+						{ label: 'Religious', slug: 'clergy/religious' }
 					],
 				},
 				{
