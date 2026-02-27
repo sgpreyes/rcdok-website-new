@@ -67,7 +67,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Events',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'events' },
 				},
 				{
 					label: 'News',
