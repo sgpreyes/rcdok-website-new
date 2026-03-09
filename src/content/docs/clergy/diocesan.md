@@ -87,9 +87,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Position:** Parish Priest
 
 #### Fr. Carlos C. Ida
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1LLByQV-bZ-8TfTsVaJiINLdsnME7ugXz=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** Sts. Peter And John Parish
 * **Address:** 36 Orange Road,Potrero, Malabon City, Metro Manila
+
+</div>
+</div>
 
 #### Fr. Martin L. Guarin
 * **Position:** Parish Priest
@@ -107,9 +117,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** C3, HI-WAY across, 7th St, Grace Park East, Caloocan, 1014 Metro Manila
 
 #### Fr. Joey C. Enriquez
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1XlST2vExD1gVcBjKtaFlYJZyTQWpZMHu=w1022-h889-iv1?auditContext=forDisplay" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** St. Joseph the Workman Parish
 * **Address:** Doña Rita St. cor Laon Laan St., Sampalukan, Caloocan, Philippines
+
+</div>
+</div>
 
 #### Fr. Silverio R. Mutia
 * **Position:** Rector & Parish Priest
@@ -117,24 +137,64 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** M. Naval St. San Jose Navotas City, Navotas, Philippines
 
 #### Fr. Elpidio A. Erlano, Jr.
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1XlST2vExD1gVcBjKtaFlYJZyTQWpZMHu=w1022-h889-iv1?auditContext=forDisplay" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** San Roque de Navotas Parish
 * **Address:** 628 Gov. A. Pascual St, Navotas, 1485 Metro Manila
 
+</div>
+</div>
+
 #### Fr. Amado V. Gino
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1mwl1egvWvG7o78ZGRr93VzXq9TadnYhV=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** Immaculate Heart of Mary Parish
 * **Address:** MXJ6+9H3, Marcelo H. Del Pilar St, Malabon, 1477 Metro Manila
 
+</div>
+</div>
+
 #### Fr. Jay Arvin M. De Leon
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/19YpIGdAIZJGv9XScJEe_0p-tje3_lHHq=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Asst. Chaplain
 * **Parish:** Chapel of Our Lady of the Most Holy Rosary
 * **Address:** 5th Floor, SM City Grand Central, Rizal Ave Ext, Grace Park East, Caloocan, Metro Manila
 
+</div>
+</div>
+
 #### Fr. Phillippe Angelo G. Garcia
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1POK8U06KVTQUbqUmwvpjodw-LpRYfETT=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parochial Vicar
 * **Parish:** Saint Gabriel The Archangel Parish
 * **Address:** MX5J+C7C Southern, Gregorio Araneta Ave, Caloocan, 1400 Metro Manila
+
+</div>
+</div>
 
 #### Fr. Leo Pepito
 * **Position:** Parish Priest
@@ -164,9 +224,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** 442 North Bay Boulevard North 1485 Navotas, Philippines
 
 #### Fr. Lauro G. Frias
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1GZe1YTQ-O0qIVnXUnuxO6a9vK5SgE5WF=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** San Pancracio Parish
 * **Address:** La Loma Cemetery Compound, East Grace Park, Caloocan City
+
+</div>
+</div>
 
 #### Fr. Ronaldo C. Pedroso
 * **Position:** Parish Priest
@@ -216,9 +286,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 
 
 #### Fr. James Anthony A. Del Rosario
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1vhmkSrIzzFvGWpR1bBbN5nHFw9lexnkv=w1022-h907-iv1?auditContext=forDisplay" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Chaplain & Priest Administrator
 * **Parish:** San Juan Bautista Mission Station
 * **Address:** 49 Kagitingan St., Brgy. Muzon, Malabon
+
+</div>
+</div>
 
 #### Fr. Jesus S. Wenceslao
 * **Position:** Chaplain
@@ -307,7 +387,17 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 
 
 #### Msgr. Boanerges A. Lechuga
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1fGcptFeLrQsH9FVkm_Jpag6aOxErqXJO=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Retired Priest
+
+</div>
+</div>
 
 #### Fr. Constantino Conti
 
@@ -326,4 +416,14 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Position:** Retired Priest
 
 #### Fr. Nestor A. Estanislao
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1XlST2vExD1gVcBjKtaFlYJZyTQWpZMHu=w1022-h889-iv1?auditContext=forDisplay" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Retired Priest
+
+</div>
+</div>
