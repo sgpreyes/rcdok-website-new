@@ -69,19 +69,49 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** 272 Gen. Luna St, Malabon, 1470 Metro Manila
 
 #### Fr. Ruben J. Maybuena
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1PWpRbSrCeYn1rc9CssrR8qQubIL0rAVW=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** San Exequiel Moreno Parish
 * **Address:** Labahita corner Langaray Street, Phase 2, Kaunlaran Village 1409 Caloocan, Philippines
 
+</div>
+</div>
+
 #### Fr. Leandro M. Magnait
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1furqwDvEa615jakYPvw9m-MSVWFtL7VX=w1022-h907-iv1?auditContext=forDisplay" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** Sacred Heart of Jesus Parish Tugatog
 * **Address:** M.H. Del Pilar Cor. Pureza St., Tugatog, Malabon City, Malabon, Philippines
 
+</div>
+</div>
+
 #### Fr. Kennedy A. Neral
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1dLfepEqi-_oJ0wGFUIZgn79-R791_zRC=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** Mary Help Of Christian Parish
 * **Address:** 278 J.P Rizal St, Maypajo, Caloocan, 1410 Metro Manila
+
+</div>
+</div>
 
 #### Fr. Ildefonso C. De Guzman, Jr.
 * **Position:** Parish Priest
@@ -107,9 +137,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** Agudo corner Cabatuan Streets, Caloocan, Philippines
 
 #### Fr. Gaudencio G. Salise
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1fYaocfJITwMv07OIO2mUxKGgPwODIAo5=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** San Antonio De Padua Parish-Malabon
 * **Address:** MX74+8PM, Gabriel St, Malabon, Metro Manila
+
+</div>
+</div>
 
 #### Fr. Lauro E. Toledo
 * **Position:** Chaplain
@@ -132,9 +172,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 </div>
 
 #### Fr. Silverio R. Mutia
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1h84AdACq2CwMq9Xe5LmMgcImc3NbvY1H=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Rector & Parish Priest
 * **Parish:** The Diocesan Shrine and Parish of San Jose de Navotas
 * **Address:** M. Naval St. San Jose Navotas City, Navotas, Philippines
+
+</div>
+</div>
 
 #### Fr. Elpidio A. Erlano, Jr.
 
@@ -239,9 +289,19 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 </div>
 
 #### Fr. Ronaldo C. Pedroso
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1qlQZZJJX11sVzqQ7x5XbvBYzZGfJIy6c=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** Santo Rosario Parish
 * **Address:** 20 Don Basilio Bautista Blvd, Malabon, Metro Manila
+
+</div>
+</div>
 
 #### Fr. Alberto T. Caballero
 
@@ -259,14 +319,34 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 </div>
 
 #### Fr. Richard DC. Omol
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1pHXIRWH6m6fFBJFoXXGofOT8RQBAKVgw=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parish Priest
 * **Parish:** Sagrada Familia Parish
 * **Address:** 61 Banal St. 6th Ave., Brgy. 122, Grace Park East 1403 Caloocan, Philippines
 
+</div>
+</div>
+
 #### Fr. Elson Manaois Santos
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1QtwT2H6k-xMuXeFd6qs2hblmYnOkoSMk=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parochial Vicar
 * **Parish:** San Roque Cathedral Parish
 * **Address:** A. Mabini St, corner 10th Ave, Poblacion, Caloocan
+
+</div>
+</div>
 
 
 #### Fr. Ofero Stephen M. Balana
@@ -347,8 +427,18 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Parish:** San Bartolome Parish
 
 #### Fr. Randy L. Leonardo
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1bxkSFv7pk3hbCNS21bzUG9iPGcvvtSjE=w1022-h907-iv1?auditContext=forDisplay" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Parochial Vicar
 * **Parish:** The Diocesan Shrine and Parish of San Jose de Navotas
+
+</div>
+</div>
 
 #### Rev. Jon Jon N. Bernardo
 
@@ -413,7 +503,17 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 </div>
 
 #### Fr. Antonio F. Nopasa
+
+<div style="display:flex; gap:1.5rem; margin-bottom:2rem; align-items:flex-start;">
+<div style="flex:0 0 150px;">
+<img src="https://lh3.google.com/u/0/d/1Wz8w83yf0DGBfA8-Z8lWyJt8BD-HfMQ7=w333-h907-iv1?auditContext=prefetch" width="150" style="border-radius:8px;">
+</div>
+<div style="font-size:1.05rem; line-height:1.6;">
+
 * **Position:** Retired Priest
+
+</div>
+</div>
 
 #### Fr. Nestor A. Estanislao
 
