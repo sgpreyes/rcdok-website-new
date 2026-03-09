@@ -14,7 +14,7 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** Rizal Ave. Ext., San Agustin, Malabon, Philippines
 
 #### Fr. Gaudioso A. Sustento
-* **Position::** Chancellor / Resident Priest
+* **Position:** Chancellor / Resident Priest
 * **Parish:** Sts. Peter and John Parish
 * **Address:** 36 Orange Road,Potrero, Malabon City, Metro Manila
 
@@ -33,7 +33,7 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Parish:** San Ildefonso Parish
 * **Address:** Estrella corner L. R. Yangco Sts., Navotas, Philippines
 
-#### Fr. Paul Nickluas C.Woo
+#### Fr. Paul Nickluas C. Woo
 * **Position:** Archives & Museum Director / Parochial Vicar
 * **Parish:** Mary Help Of Christian Parish
 * **Address:** 278 J.P Rizal St, Maypajo, Caloocan, 1410 Metro Manila
@@ -124,6 +124,8 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** L. Nadurata Street between 7th and 8th Avenue, Grace Park, Caloocan, Philippines
 
 #### Fr. Mariano C. Bartolome, Jr.
+<img src="https://lh3.google.com/u/0/d/1jU7PBmrCmZNEO6oZoZML42LL4OF-dbF_" width="150" style="border-radius:8px; margin-bottom:10px;">
+
 * **Position:** Rector & Parish Priest
 * **Parish:** The Diocesan Shrine & Parish Of Immaculate Conception
 * **Address:** 272 Gen. Luna St, Malabon, 1470 Metro Manila
@@ -159,6 +161,8 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** A. Mabini St, corner 10th Ave, Poblacion, Caloocan, 1400 Metro Manila
 
 #### Fr. Ofero Stephen M. Balana
+<img src="https://lh3.google.com/u/0/d/1ELfAzRWnom3PUc-_ylR_ti8wHnR2xDMx" width="150" style="border-radius:8px; margin-bottom:10px;">
+
 * **Position:** Parish Priest
 * **Parish:** Santo Niño de Pasión de Navotas Parish
 * **Address:** 4 Daanghari St., Daanghari 1485 Navotas, Philippines
@@ -174,6 +178,8 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** 5th Floor, SM City Grand Central, Rizal Ave Ext, Grace Park East, Caloocan, Metro Manila
 
 #### Fr. Angelo Andes Ajero
+<img src="https://lh3.google.com/u/0/d/10SUiMKbYIYJUWVe12g8fuAIoJBx6g5S7" width="150" style="border-radius:8px; margin-bottom:10px;">
+
 * **Position:** Parochial Vicar
 * **Parish:** San Bartolome Parish
 * **Address:** Rizal Ave. Ext., San Agustin, Malabon, Philippines
@@ -193,7 +199,7 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Parish:** Sacred Heart of Jesus Parish Tugatog
 * **Address:** M.H. Del Pilar Cor. Pureza St., Tugatog, Malabon City, Malabon, Philippines
 
-#### Fr. Christian Czar M.Manansala
+#### Fr. Christian Czar M. Manansala
 * **Position:** Parochial Vicar
 * **Parish:** Sacred Heart of Jesus Parish Tugatog
 * **Address:** M.H. Del Pilar Cor. Pureza St., Tugatog, Malabon City, Malabon, Philippines
@@ -229,6 +235,8 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 * **Address:** 
 
 #### Msgr. Alex V. Amandy
+<img src="https://lh3.google.com/u/0/d/1L72WuV6PsmbKy6mMYHWtX9URGoSM4vY8" width="150" style="border-radius:8px; margin-bottom:10px;">
+
 * **Position:** Retired Priest
 
 #### Msgr. Boanerges A. Lechuga
