@@ -5,14 +5,14 @@ title: Prayers
 # Prayers
 
 ## Our Father
-<img src="/src/assets/prayers/our-father.jpg" alt="Our Father" style="border-radius: 8px; width: 90%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin:40px">
+<img src="/rcdok-website-new/prayers/our-father.jpg" alt="Our Father" style="display:block;margin:40px auto;border-radius:8px;width:90%;height:auto;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 
 Our Father, who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done, on earth, as it is in heaven. Give us this day our daily bread and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil.
 
 ---
 
 ## Hail Mary
-<img src="/src/assets/prayers/hail-mary.jpg" alt="Hail Mary" style="border-radius: 8px; width: 90%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin:40px">
+<img src="/rcdok-website-new/prayers/hail-mary.jpg" alt="Hail Mary" style="display:block;margin:40px auto;border-radius:8px;width:90%;height:auto;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 
 Hail Mary,  
 Full of Grace,  
@@ -26,7 +26,7 @@ and at the hour of our death.
 ---
 
 ## Glory Be
-<img src="/src/assets/prayers/glory-be.jpg" alt="Glory Be" style="border-radius: 8px; width: 90%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin:40px">
+<img src="/rcdok-website-new/prayers/glory-be.jpg" alt="Glory Be" style="display:block;margin:40px auto;border-radius:8px;width:90%;height:auto;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 
 Glory be to the Father,  
 and to the Son,  
@@ -38,7 +38,7 @@ world without end.
 ---
 
 ## Apostles Creed
-<img src="/src/assets/prayers/apostles-creed.jpg" alt="Apostles Creed" style="border-radius: 8px; width: 90%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin:40px">
+<img src="/rcdok-website-new/prayers/apostles-creed.jpg" alt="Apostles Creed" style="display:block;margin:40px auto;border-radius:8px;width:90%;height:auto;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 
 I believe in God, the Father Almighty, Creator of Heaven and earth;  
 and in Jesus Christ, His only Son Our Lord,  
@@ -50,13 +50,11 @@ I believe in the Holy Spirit, the holy Catholic Church, the communion of saints,
 ---
 
 ## Guardian Angel Prayer
-<img src="/src/assets/prayers/guardian-angel.jpg" alt="Guardian Angel Prayer" style="border-radius: 8px; width: 90%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin:40px">
+<img src="/rcdok-website-new/prayers/guardian-angel.jpg" alt="Guardian Angel Prayer" style="display:block;margin:40px auto;border-radius:8px;width:90%;height:auto;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 
 Angel of God,  
 my guardian dear,  
-To whom God's love  
-commits me here,  
-Ever this day,  
-be at my side,  
+To whom God's love commits me here,  
+Ever this day be at my side,  
 To light and guard,  
 Rule and guide.
