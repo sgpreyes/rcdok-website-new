@@ -28,7 +28,7 @@ description: Mission stations under the Diocese of Kalookan.
 ## Our Lady of Fatima – Julian Felipe Mission Station
 <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t39.30808-6/475298592_122130352832577479_710520436042280227_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=IrGqVYiYUEQQ7kNvwFsfg1B&_nc_oc=AdnQx4ptr6hq-W4ICddpog38GKXgQ7hZUFOrX760YIcfxh40LlCZVRqHyJUNyCeLSqI&_nc_zt=23&_nc_ht=scontent.fcrk1-1.fna&_nc_gid=h1E4IDlzuxfmt5WNj7Ut0Q&oh=00_AftsijC_soMy_Pnec2bArKpHLWqPAJkxkx9aC6grr33bpQ&oe=6991FEA1" alt="Our Lady of Fatima – Julian Felipe Mission Station" style="border-radius: 8px; width: 90%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin:40px">
 
-* **Chaplain:** —  
+* **Chaplain:** —  Rev. Fr. JR S. Mallonga
 * **Address:** Julian Felipe, Brgy. 8, Sangandaan, Caloocan, Philippines  
 
 ## Our Lady of Peace – Letre Mission Station
