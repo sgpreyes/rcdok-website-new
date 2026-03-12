@@ -1,10 +1,11 @@
 ---
 title: Member Schools
 description: Catholic member schools under the Diocese of Kalookan.
-
-import SchoolProfile from '../../components/SchoolProfile.astro';
 ---
 
+import SchoolProfile from '../../components/SchoolProfile.astro';
+
+<SchoolProfile ... />
 # Member Schools
 
 The Diocese of Kalookan supports Catholic education through several institutions that provide academic formation rooted in Christian values and the mission of the Church.
