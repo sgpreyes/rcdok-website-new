@@ -109,8 +109,33 @@ export default defineConfig({
 				{
 					label: 'Missions',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Mission Stations', slug: 'missions/stations' },
+						{ 
+							label: 'Mission Stations',
+							collapsed: true, 
+							items: [
+								{ label: 'Birhen ng Fatima Mission Station', slug: 'missions/stations/birhen-ng-fatima' },
+								{ label: 'Holy Cross - Catmon Mission Station', slug: 'missions/stations/holy-cross-catmon' },
+								{ label: 'Our Lady of Fatima - Julian Felipe Mission Station', slug: 'missions/stations/our-lady-of-fatima-julian-felipe' },
+								{ label: 'Mother of Perpetual Help - Karisma Mission Station', slug: 'missions/stations/mother-of-perpetual-help-karisma' },
+								{ label: 'Our Lady of Peace - Letre Mission Station', slug: 'missions/stations/our-lady-of-peace-letre' },
+								{ label: 'Tanza Pabahay Mission Station', slug: 'missions/stations/tanza-pabahay' },												
+								{ label: 'Chapel of Our Lady of the Most Holy Rosary', slug: 'missions/stations/chapel-of-our-lady-of-the-most-holy-rosary' },
+								{ label: 'Our Lady of the Sacred Heart Mission Station', slug: 'missions/stations/our-lady-of-the-sacred-heart' },
+								{ label: 'Sacred Heart Kaunlaran Mission Station', slug: 'missions/stations/sacred-heart-kaunlaran' },
+								{ label: 'Sagrada Familia Pamasawata Mission Station', slug: 'missions/stations/sagrada-familia-pamasawata' },
+								{ label: 'St. Jude Thaddeus Mission Station', slug: 'missions/stations/st-jude-thaddeus' },
+								{ label: 'Sta. Martha Mission Station', slug: 'missions/stations/sta-martha' },
+								{ label: 'San Andres Mangingisda Mission Station', slug: 'missions/stations/san-andres-mangingisda' },
+								{ label: 'Nuestro Señor de Longos Mission Station', slug: 'missions/stations/nuestro-señor-de-longos' },
+								{ label: 'San Juan Bautista Mission Station', slug: 'missions/stations/san-juan-bautista' },
+								{ label: 'San Vicente Ferrer Mission Station', slug: 'missions/stations/san-vicente-ferrer' },
+								{ label: 'Señor Sta. Cruz Mission Station - Santulan', slug: 'missions/stations/señor-sta-cruz-santulan' },
+								{ label: 'Sto. Niño Potrero Chapel Mission Station', slug: 'missions/stations/sto-niño-potrero' },
+								{ label: 'San Vicente Ferrer Mission Station', slug: 'missions/stations/two-hearts-of-jesus-and-mary' },
+								
+							],
+
+						},
 						{ label: 'Mission Centers', slug: 'missions/centers' },
 						{ label: 'Mission Programs', slug: 'missions/programs' },
 						{ label: 'Mission Headquarters', slug: 'guides/example' },

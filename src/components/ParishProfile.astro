@@ -36,7 +36,7 @@ const { name, img, priest, address, contact, fbLink } = Astro.props;
         <div class="info-item action-item">
           <span class="label"></span> <p class="value">
             <a href={fbLink} target="_blank" class="gold-link">
-              View Official Facebook Page →
+              View Official Community Page →
             </a>
           </p>
         </div>
@@ -74,11 +74,15 @@ const { name, img, priest, address, contact, fbLink } = Astro.props;
     height: 100%;
     object-fit: cover;
     display: block;
-    transition: transform 0.8s cubic-bezier(0.33, 1, 0.68, 1);
+    filter: brightness(0.7) saturate(0.7); 
+    transition: 
+      transform 1.2s cubic-bezier(0.22, 1, 0.36, 1), 
+      filter 0.6s ease;
   }
 
   .parish-profile-container:hover .wide-photo {
-    transform: scale(1.03);
+    transform: scale(1.1);
+    filter: brightness(0.9) saturate(0.9);
   }
 
   .image-inner-shadow {
