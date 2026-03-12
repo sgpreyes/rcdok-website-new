@@ -49,9 +49,9 @@ description: Catholic cemeteries under the diocese.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
   <div style="flex: 1; min-width: 300px;">
-    <a href="https://maps.google.com/?cid=4100104171817587095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.google.com/maps/search/?api=1&query=San+Bartolome+Catholic+Cemetery+Malabon" target="_blank" rel="noopener noreferrer">
       <img 
-        src="/san-bartolome.jpg" 
+        src="/san-bartolome.jpeg" 
         alt="San Bartolome Catholic Cemetery" 
         style="border-radius: 8px; width: 100%; height: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
       />
@@ -62,6 +62,7 @@ description: Catholic cemeteries under the diocese.
   </div>
 
   <div style="flex: 1.5; min-width: 300px;">
+
 * **Address:** #6 Rizal Ave. Ext., San Agustin, Malabon City  
 * **Telephone:** (02) 283-3512 / (02) 281-1266  
 
@@ -73,8 +74,11 @@ description: Catholic cemeteries under the diocese.
 * **Liaison Officer/Cemetery Custodian:** Mr. Allan M. Simbulan  
 * **Cemetery Guard:** Mr. Rolando A. Gumapos  
 * **Cemetery Maintenance:** Mr. Amorie T. Cruz  
+
   </div>
 </div>
+
+---
 
 ## San Jose Catholic Cemetery
 
